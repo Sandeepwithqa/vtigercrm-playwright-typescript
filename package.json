@@ -1,0 +1,23 @@
+{
+  "name": "automation",
+  "version": "1.0.0",
+  "description": "laywright-based automation framework for vTiger CRM using TypeScript, covering UI and API testing with CI/CD integration via Jenkins and GitHub",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sandeepwithqa/vtigercrm-playwright-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Sandeepwithqa/vtigercrm-playwright-typescript/issues"
+  },
+  "homepage": "https://github.com/Sandeepwithqa/vtigercrm-playwright-typescript#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.59.1",
+    "@types/node": "^25.6.0"
+  }
+}
